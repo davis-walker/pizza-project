@@ -1,0 +1,17 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css") layer(framework);
+
+.btn{
+    color: blue;
+    border-color: blue;
+}
+
+.signup{
+    border: none;
+    background-color: unset;
+}
+
+img.pizza {
+    position: absolute;
+    left: 400px;
+    max-width: 800px;
+}
