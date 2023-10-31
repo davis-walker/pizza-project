@@ -27,11 +27,9 @@ img.pizza {
     align-content: flex-start;
     padding-right: 120px;
     justify-content: space-evenly;
-
 }
 .navbar{
     justify-content: space-evenly;
-
 }
 .container.hero {
     background-image: url("../img/pizza.jpg");
@@ -110,3 +108,9 @@ p {
     position: relative;
     left: 1170px;
 }
+.card-top{
+    height: 30px;
+    background-color: #0A6FFD;
+    border-radius: 5px;
+}
+
