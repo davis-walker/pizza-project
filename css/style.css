@@ -7,14 +7,16 @@ body {
 }
 
 .btn{
-    color: blue;
-    border-color: blue;
+    color: #0A6FFD;
+    border-color: #0A6FFD;
 }
+
 
 .signup{
     border: none;
     background-color: unset;
 }
+
 
 img.pizza {
     position: relative;
@@ -65,7 +67,46 @@ p {
 
 #home-tab-pane{
     border: 1px solid black;
-    height: 24px;
+    height: 32px;
     color: white;
-    background-color: blue;
+    width: 60rem;
+
+}
+
+#profile-tab-pane {
+    border: 1px solid black;
+    height: 32px;
+    padding-bottom: 10px;
+    width: 78rem;
+    background-color:#0A6FFD;
+    color: white;
+}
+#contact-tab-pane {
+    border: 1px solid black;
+    height: 32px;
+    padding-bottom: 10px;
+    width: 81rem;
+    background-color: #0A6FFD;
+    color: white;
+}
+
+
+.btn-primary {
+    color: white;
+    background-color: #0A6FFD;
+    position: relative;
+    left: 1120px;
+
+}
+.btn-secondary {
+    color: white;
+    background-color: #0A6FFD;
+    position: relative;
+    left: 1180px;
+}
+.btn-third {
+    color: white;
+    background-color:#0A6FFD ;
+    position: relative;
+    left: 1170px;
 }
